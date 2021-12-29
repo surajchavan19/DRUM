@@ -1,5 +1,6 @@
 # Drum-Kit 
-The Drum Kit is build using HTML, CSS and JavaScript.
+The project Drum Kit contains various drums having different sounds which you can play.
+It is build using HTML, CSS and JavaScript.
 
 [Click here to view the website]( https://surajchavan19.github.io/DRUM/)
  
